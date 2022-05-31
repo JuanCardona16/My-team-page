@@ -42,4 +42,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@JuanCardona](https://{github.com/JuanCardona16})
+- GitHub [JuanCardona](https://{github.com/JuanCardona16})
